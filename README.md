@@ -1,4 +1,4 @@
-# uWS websocket for node
+# UserToken uWS websocket for node
 -------------------
 
 ## Why
