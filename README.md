@@ -8,7 +8,7 @@
 ### Use
 
 ```
-  npm install --save https://github.com/usertoken/uws.git
+  npm install --save https://github.com/prod-usertoken/uws.git
 ```
 
 ```
